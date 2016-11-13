@@ -1,7 +1,7 @@
 Personal Goals
 ==============
 
-Personal goals made open source.
+Personal goals made open source. Inspired and based on [Una's Personal Goals](https://github.com/una/personal-goals)
 
 Why? I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
@@ -21,7 +21,7 @@ Why? I'm open sourcing these goals for accessibility across computers I use, tra
 - [x] Continue reading "Inclusive Design Patterns" book
 - [x] Go to Brighton for [#ffconf](https://2016.ffconf.org/)!
 - [x] Recover from being ill.
-- [ ] Go running on the weekend.
+- [ ] ~~Go running on the weekend.~~
 - [x] Start reading ["You Don't Know JS: Async & Performance"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
 
 ### Things I'll Do This Month: November 2016
