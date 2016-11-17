@@ -1,4 +1,4 @@
-# Currently Reading these books
+# Currently reading these books
 
 ## Technology
 - [Inclusive Design Patterns](https://www.smashingmagazine.com/books/#inclusive-design-patterns) by Heydon Pickering
