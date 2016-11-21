@@ -12,18 +12,18 @@ Why? I'm open sourcing these goals for accessibility across computers I use, tra
 4. Always Be Learning - especially JavaScript, CSS, Accessibility
 5. Be kind
 
-# 14th November 2016
+# 21st November 2016
 
 ### This Week's Goal: Be Awesome.
 
 ## Things I'll Do This Week:
-- [x] Continue reading "Inclusive Design Patterns" book
-- [x] Continue reading ["You Don't Know JS: Async & Performance"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
+- [ ] Draplin talk on Thursday in London
+- [ ] Finish reading "Inclusive Design Patterns" book
+- [ ] Continue reading ["You Don't Know JS: Async & Performance"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
 - [ ] Go running
 - [ ] Write a blog post about running or ffconf
-- [x] Work on my own website
-- [ ] Start a personal project related to the web
-- [x] Read up on async/await 
+- [ ] Carry on learning French with Duolingo
+- [ ] Read up on React Router & start making Birthday App v.2
 
 ### Things I'll Do This Month: November 2016
 - [ ] Research marathons and half-marathons.
