@@ -17,12 +17,15 @@ Why? I'm open sourcing these goals for accessibility across computers I use, tra
 ### This Week's Goal: Be Awesome.
 
 ## Things I'll Do This Week:
+- [x] Get out Raspberry Pi + Camera
+- [x] Start Raspberry Pi + WordPress project
 - [ ] Draplin talk on Thursday in London
 - [ ] Finish reading "Inclusive Design Patterns" book
 - [ ] Continue reading ["You Don't Know JS: Async & Performance"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
+- [x] Read "Animal Farm"
 - [ ] Go running
 - [ ] Write a blog post about running or ffconf
-- [ ] Carry on learning French with Duolingo
+- [x] Carry on learning French with Duolingo
 - [ ] Read up on React Router & start making Birthday App v.2
 
 ### Things I'll Do This Month: November 2016
@@ -32,6 +35,7 @@ Why? I'm open sourcing these goals for accessibility across computers I use, tra
 
 ### Backlog: Side Projects :)
 - [ ] Raspberry Pi Sonos + Hue device
+
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Strava API + Twitter API. i.e. new strava activity, then post a tweet, update a counter on a website.
