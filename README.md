@@ -19,14 +19,19 @@ Why? I'm open sourcing these goals for accessibility across computers I use, tra
 ## Things I'll Do This Week:
 - [x] Get out Raspberry Pi + Camera
 - [x] Start Raspberry Pi + WordPress project
-- [ ] Draplin talk on Thursday in London
+- [x] Setup WordPress on Pi
+- [x] Setup WPAPI on Pi
+- [x] Take Photo on Pi and post to WordPress
+- [ ] ~~Draplin talk on Thursday in London~~
 - [ ] Finish reading "Inclusive Design Patterns" book
 - [ ] Continue reading ["You Don't Know JS: Async & Performance"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
 - [x] Read "Animal Farm"
 - [ ] Go running
-- [ ] Write a blog post about running or ffconf
+- [x] Write a blog post about running or ffconf
 - [x] Carry on learning French with Duolingo
-- [ ] Read up on React Router & start making Birthday App v.2
+- [x] Read up on React Router & start making Birthday App v.2
+- [ ] Look after Arthur on Saturday 
+- [x] Re-start Strava API investigation
 
 ### Things I'll Do This Month: November 2016
 - [ ] Research marathons and half-marathons.
