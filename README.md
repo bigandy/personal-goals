@@ -23,8 +23,8 @@ Why? I'm open sourcing these goals for accessibility across computers I use, tra
 - [x] Setup WPAPI on Pi
 - [x] Take Photo on Pi and post to WordPress
 - [ ] ~~Draplin talk on Thursday in London~~
-- [ ] Finish reading "Inclusive Design Patterns" book
-- [ ] Continue reading ["You Don't Know JS: Async & Performance"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
+- [x] Finish reading "Inclusive Design Patterns" book
+- [x] Continue reading ["You Don't Know JS: Async & Performance"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
 - [x] Read "Animal Farm"
 - [ ] Go running
 - [x] Write a blog post about running or ffconf
