@@ -1,7 +1,6 @@
 # Currently reading these books
 
 ## Technology
-- [Inclusive Design Patterns](https://www.smashingmagazine.com/books/#inclusive-design-patterns) by Heydon Pickering
 - ["You Don't Know JS: Async & Performance"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md) by Kyle Simpson
 
 ## Non-tech
