@@ -26,12 +26,14 @@ Why? I'm open sourcing these goals for accessibility across computers I use, tra
 - [x] Finish reading "Inclusive Design Patterns" book
 - [x] Continue reading ["You Don't Know JS: Async & Performance"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
 - [x] Read "Animal Farm"
-- [ ] Go running
+- [ ] ~~Go running~~
 - [x] Write a blog post about running or ffconf
 - [x] Carry on learning French with Duolingo
 - [x] Read up on React Router & start making Birthday App v.2
-- [ ] Look after Arthur on Saturday 
+- [x] Look after Arthur on Saturday 
 - [x] Re-start Strava API investigation
+- [x] Haircut and new glasses
+- [x] Finish reading "Cat's Cradle"
 
 ### Things I'll Do This Month: November 2016
 - [ ] Research marathons and half-marathons.
