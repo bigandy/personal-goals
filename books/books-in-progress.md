@@ -5,4 +5,4 @@
 
 ## Non-tech
 - [Natural Born Heroes: The Lost Secrets of Strength and Endurance](https://www.amazon.co.uk/dp/B00IUPM66S/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Christopher McDougall
-- [Cat's Cradle](https://en.wikipedia.org/wiki/Cat%27s_Cradle) by Kurt Vonnegut
+
