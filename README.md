@@ -12,7 +12,7 @@ Why? I'm open sourcing these goals for accessibility across computers I use, tra
 4. Always Be Learning - especially JavaScript, CSS, Accessibility
 5. Be kind
 
-# 28st November 2016
+# 28th November 2016
 
 ### This Week's Goal: Be Awesome.
 
