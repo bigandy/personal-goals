@@ -12,28 +12,19 @@ Why? I'm open sourcing these goals for accessibility across computers I use, tra
 4. Always Be Learning - especially JavaScript, CSS, Accessibility
 5. Be kind
 
-# 21st November 2016
+# 28st November 2016
 
 ### This Week's Goal: Be Awesome.
 
 ## Things I'll Do This Week:
-- [x] Get out Raspberry Pi + Camera
-- [x] Start Raspberry Pi + WordPress project
-- [x] Setup WordPress on Pi
-- [x] Setup WPAPI on Pi
-- [x] Take Photo on Pi and post to WordPress
-- [ ] ~~Draplin talk on Thursday in London~~
-- [x] Finish reading "Inclusive Design Patterns" book
-- [x] Continue reading ["You Don't Know JS: Async & Performance"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
-- [x] Read "Animal Farm"
-- [ ] ~~Go running~~
-- [x] Write a blog post about running or ffconf
-- [x] Carry on learning French with Duolingo
-- [x] Read up on React Router & start making Birthday App v.2
-- [x] Look after Arthur on Saturday 
-- [x] Re-start Strava API investigation
-- [x] Haircut and new glasses
-- [x] Finish reading "Cat's Cradle"
+- [ ] Go running
+- [ ] Continue reading ["You Don't Know JS: Async & Performance"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
+- [ ] Continue reading ["Node.js the Right Way"](https://pragprog.com/book/jwnode/node-js-the-right-way) by Jim R. Wilson
+- [ ] Check website every day (Mon - Fri)
+- [ ] Tidy house for parents-in-law visit
+- [ ] Carry on learning French with Duolingo
+- [ ] Combine Hue and Raspberry Pi Camera e.g. take photo, and the most common color is used to set the light colour
+- [ ] Update CV
 
 ### Things I'll Do This Month: November 2016
 - [ ] Research marathons and half-marathons.
