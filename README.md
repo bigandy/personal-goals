@@ -17,13 +17,15 @@ Why? I'm open sourcing these goals for accessibility across computers I use, tra
 ### This Week's Goal: Be Awesome.
 
 ## Things I'll Do This Week:
-- [ ] Go running
+- [x] Go running (woop, went running on Tuesday!)
 - [ ] Continue reading ["You Don't Know JS: Async & Performance"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
 - [ ] Continue reading ["Node.js the Right Way"](https://pragprog.com/book/jwnode/node-js-the-right-way) by Jim R. Wilson
 - [ ] Check website every day (Mon - Fri)
 - [ ] Tidy house for parents-in-law visit
 - [ ] Carry on learning French with Duolingo
 - [ ] Combine Hue and Raspberry Pi Camera e.g. take photo, and the most common color is used to set the light colour
+- [x] Refresh self on node-hue-api and get working on Mac
+- [ ] Get node-hue-api working on raspberry pi
 - [ ] Update CV
 
 ### Things I'll Do This Month: November 2016
