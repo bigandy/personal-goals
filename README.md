@@ -17,25 +17,27 @@ Why? I'm open sourcing these goals for accessibility across computers I use, tra
 ### This Week's Goal: Be Awesome.
 
 ## Things I'll Do This Week:
-- [x] Go running (woop, went running on Tuesday!)
+- [x] Go running (woop, went running on Tuesday!) (double woop, went running on Thursday!!)
 - [ ] Continue reading ["You Don't Know JS: Async & Performance"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
 - [ ] Continue reading ["Node.js the Right Way"](https://pragprog.com/book/jwnode/node-js-the-right-way) by Jim R. Wilson
 - [ ] Check website every day (Mon - Fri)
-- [ ] Tidy house for parents-in-law visit
-- [ ] Carry on learning French with Duolingo
+- [x] Tidy house for parents-in-law visit
+- [x] Carry on learning French with Duolingo
 - [ ] Combine Hue and Raspberry Pi Camera e.g. take photo, and the most common color is used to set the light colour
 - [x] Refresh self on node-hue-api and get working on Mac
-- [ ] Get node-hue-api working on raspberry pi
+- [x] Get node-hue-api working on raspberry pi
+- [x] Go to JSOxford on Wednesday
 - [ ] Update CV
 
-### Things I'll Do This Month: November 2016
-- [ ] Research marathons and half-marathons.
+### Things I'll Do This Month: December 2016
+- [ ] Running 
+- [ ] Always be experimenting
 - [ ] Never stop learning
-- [ ] Read more books!
+- [ ] Read more books
+- [ ] Christmas!
 
 ### Backlog: Side Projects :)
 - [ ] Raspberry Pi Sonos + Hue device
-
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Strava API + Twitter API. i.e. new strava activity, then post a tweet, update a counter on a website.
