@@ -28,7 +28,7 @@ Why? I'm open sourcing these goals for accessibility across computers I use, tra
 - [x] Get node-hue-api working on raspberry pi
 - [x] Go to JSOxford on Wednesday
 - [ ] Update CV
-- [x] Get out neopixels and do something with Pi3 + neopixels
+- [x] Get out neopixels and do something with Pi3 + neopixels (turns out that pi3, node 7 doesn't work with neopixels, pizero with node 0.12.7 does. Is it the Pi or the Node that is the difference??)
 
 ### Things I'll Do This Month: December 2016
 - [ ] Running 
