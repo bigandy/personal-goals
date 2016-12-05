@@ -12,23 +12,16 @@ Why? I'm open sourcing these goals for accessibility across computers I use, tra
 4. Always Be Learning - especially JavaScript, CSS, Accessibility
 5. Be kind
 
-# 28th November 2016
+# 5th December 2016
 
 ### This Week's Goal: Be Awesome.
 
 ## Things I'll Do This Week:
-- [x] Go running (woop, went running on Tuesday!) (double woop, went running on Thursday!!)
+- [ ] Go running
 - [ ] Continue reading ["You Don't Know JS: Async & Performance"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
 - [ ] Continue reading ["Node.js the Right Way"](https://pragprog.com/book/jwnode/node-js-the-right-way) by Jim R. Wilson
-- [x] Check website every day (Mon - Fri)
-- [x] Tidy house for parents-in-law visit
-- [x] Carry on learning French with Duolingo
-- [x] Combine Hue and Raspberry Pi Camera e.g. take photo, and the most common color is used to set the light colour
-- [x] Refresh self on node-hue-api and get working on Mac
-- [x] Get node-hue-api working on raspberry pi
-- [x] Go to JSOxford on Wednesday
-- [ ] Update CV
-- [x] Get out neopixels and do something with Pi3 + neopixels (turns out that pi3, node 7 doesn't work with neopixels, pizero with node 0.12.7 does. Is it the Pi or the Node that is the difference??)
+- [ ] Learn French every day with Duolingo
+
 
 ### Things I'll Do This Month: December 2016
 - [ ] Running 
