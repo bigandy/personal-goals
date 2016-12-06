@@ -30,5 +30,6 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 - [ ] Raspberry Pi Sonos + Hue device
 
 ### Backlog: Code Things I Want to Do/Play With
-1. Strava API + Twitter API. i.e. new strava activity, then post a tweet, update a counter on a website.
-2. Something useful for the house. IoT but without a phone. Button to turn off everything e.g. lights, sonos.
+- [ ] Strava API + Twitter API. i.e. new strava activity, then post a tweet, update a counter on a website.
+- [ ] Something useful for the house. IoT but without a phone. Button to turn off everything e.g. lights, sonos.
+- [ ] Re-develop [my website](https://big-andy.co.uk)
