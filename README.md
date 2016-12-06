@@ -15,6 +15,9 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 - [ ] Continue reading ["You Don't Know JS: Async & Performance"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
 - [ ] Continue reading ["Node.js the Right Way"](https://pragprog.com/book/jwnode/node-js-the-right-way) by Jim R. Wilson
 - [ ] Learn French every day with Duolingo
+- [x] Canvas Learning, especially animating thngs in canvas
+- [ ] Read up on [node-sonos-discovery](https://github.com/jishi/node-sonos-discovery/) and attempt to get working on mac.
+- [ ] Once node-sonos-discovery working migrate to raspberry pi
 
 ### Things I'll Do This Month: December 2016
 - [ ] Running 
