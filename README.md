@@ -28,6 +28,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 
 ### Backlog: Side Projects :)
 - [ ] Raspberry Pi Sonos + Hue device
+- [ ] Make a Chrome Extension [A tutorial is on 24 ways](https://24ways.org/2016/how-to-make-a-chrome-extension/)
 
 ### Backlog: Code Things I Want to Do/Play With
 - [ ] Strava API + Twitter API. i.e. new strava activity, then post a tweet, update a counter on a website.
