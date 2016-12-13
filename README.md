@@ -11,6 +11,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 # 12th December 2016
 
 ## Things I'll Do This Week:
+- [ ] Start Javascript30
 - [ ] Buy Christmas Presents
 - [ ] Continue learning about Node, WPAPI, and APIs such as Withings 
 - [ ] Watch Christmas Films :)
