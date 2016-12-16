@@ -5,6 +5,8 @@
 - [The High Mountains of Portugal](https://www.amazon.co.uk/dp/B015EI961G/) by Yann Martel
 - ["Animal Farm"](https://en.wikipedia.org/wiki/Animal_Farm) by George Orwell 
 - [Cat's Cradle](https://en.wikipedia.org/wiki/Cat%27s_Cradle) by Kurt Vonnegut
+- ["Walking home from Mongolia"](https://www.amazon.co.uk/dp/B00CTMA7PK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Rob Lilwall
+
 
 ## Tech Books
 - [Inclusive Design Patterns](https://www.smashingmagazine.com/books/#inclusive-design-patterns) by Heydon Pickering
