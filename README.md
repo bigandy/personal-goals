@@ -8,14 +8,13 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 3. Keep Running (and cycling)
 
-# 12th December 2016
+# 19th December 2016
 
 ## Things I'll Do This Week:
-- [ ] Start Javascript30
-- [ ] Buy Christmas Presents
-- [x] Continue learning about Node, WPAPI, and APIs such as Withings 
-- [x] Watch Christmas Films :)
-- [x] Finish "Walking Home from Mongolia"
+- [ ] Christmas!
+- [ ] Continue Javascript30
+- [ ] Buy moar Christmas Presents
+- [ ] Watch moar Christmas Films :)
 
 ### Things I'll Do This Month: December 2016
 - [ ] Running 
