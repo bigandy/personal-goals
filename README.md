@@ -12,7 +12,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 
 ## Things I'll Do This Week:
 - [ ] Christmas!
-- [x] Continue Javascript30 (~~day 1~~, ~~day 2~~)
+- [x] Continue Javascript30 (~~day 1~~, ~~day 2~~, ~~day 3~~, ~~day 4~~)
 - [ ] Buy moar Christmas Presents
 - [ ] Watch moar Christmas Films :)
 
