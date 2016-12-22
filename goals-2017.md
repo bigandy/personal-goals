@@ -18,7 +18,7 @@ I also love using the Raspberry Pi to do some things e.g. interact with the real
 ## Fitness Goals
 I'd like to get back into running again, to help me regain fitness, chill the hell out, and get away from the screen after work.
 
-- [ ] Enter [Reading half-marathon](https://www.sweatshopevents.co.uk/vrhm/entry_half17.asp) to give myself a target 
+- [ ] Reading half-marathon - 19th March to give myself a target 
 - [ ] Join running club ([Didcot Runners](http://didcotrunners.org.uk/club-info))
 - [ ] Run 3x a week - 2x days out of Mon, Wed, Fri,  plus Tuesdays
 
