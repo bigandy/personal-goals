@@ -8,21 +8,21 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 3. Keep Running (and cycling)
 
-# 19th December 2016
+# 26th December 2016
 
 ## Things I'll Do This Week:
-- [ ] Christmas!
-- [x] Continue Javascript30 (~~day 1~~, ~~day 2~~, ~~day 3~~, ~~day 4~~, ~~day 5~~, ~~day 6~~, ~~day 7~~, ~~day 8~~, ~~day 12~~)
-- [x] Buy moar Christmas Presents
-- [x] Watch moar Christmas Films :)
-- [x] Sort CDs and DVDs in garage
+- [x] Christmas!
+- [ ] Go through house and garage sorting out what don't need
+- [ ] Running
+- [ ] Recover from Christmas
+- [ ] Sort out stuff
 
 ### Things I'll Do This Month: December 2016
-- [ ] Running 
-- [ ] Always be experimenting
-- [ ] Never stop learning
-- [ ] Read more books
-- [ ] Christmas!
+- [x] Running 
+- [x] Always be experimenting
+- [x] Never stop learning
+- [x] Read more books
+- [x] Christmas!
 
 ### Backlog: Side Projects :)
 - [ ] Raspberry Pi Sonos + Hue device
