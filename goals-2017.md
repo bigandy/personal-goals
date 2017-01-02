@@ -1,7 +1,5 @@
 # Goals for 2017
 
-
-
 ## Personal Goals
 While I love learning about code I think that the last year I have done less outside of work. I'd like to meet more people (friends, family and new friends), attend more meetups, and spend less time in front of the screen or inside.
 - [ ] More time with family and friends
@@ -20,9 +18,9 @@ I'd like to get back into running again, to help me regain fitness, chill the he
 
 - [ ] Reading half-marathon - 19th March 2017
 - [ ] Join running club ([Didcot Runners](http://didcotrunners.org.uk/club-info))
-- [ ] Run 3x a week - 2x days out of Mon, Wed, Fri,  plus Tuesdays
+- [ ] Run 3x a week - 2x days out of Mon, Wed, Fri, plus Tuesdays
 
 ## Travelling Goals
-This year we had holidays in the UK with a few short breaks to France to see the family there. The world is a big place and more countries need to be visited! 
+This year we had holidays in the UK with a few short breaks to France to see the family there. The world is a big place and more countries need to be visited!
 - [ ] Have more holidays
 - [ ] Visit new countries

@@ -6,4 +6,4 @@
 
 ## Non-tech
 - ["Natural Born Heroes: The Lost Secrets of Strength and Endurance"](https://www.amazon.co.uk/dp/B00IUPM66S/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Christopher McDougall
--["Voyageur"](https://www.amazon.co.uk/dp/B004OBZNV2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Robert Twigger
+- ["Hal Koerner's Field Guide to UltraRunning"](https://www.amazon.co.uk/dp/B00MYEQGFI/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Hal Koerner

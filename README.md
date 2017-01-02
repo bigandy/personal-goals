@@ -4,32 +4,38 @@ Personal Goals
 Personal goals made open source. Inspired and based on [Una's Personal Goals](https://github.com/una/personal-goals). I am keeping them here because: accessibility across computers I use, transparency, accountability, and versioning.
 
 # Overarching Goals
-1. Always be Learning, Always be Coding
-2. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
-3. Keep Running (and cycling)
+1. Keep Running (and cycling)
+2. Always be Learning, Always be Coding
+3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-# 26th December 2016
+# 2nd January 2017
 
 ## Things I'll Do This Week:
-- [x] Christmas!
-- [ ] Go through house and garage sorting out what don't need
 - [ ] Running
-- [ ] Recover from Christmas
-- [ ] Sort out stuff
 
-### Things I'll Do This Month: December 2016
-- [x] Running 
-- [x] Always be experimenting
-- [x] Never stop learning
-- [x] Read more books
-- [x] Christmas!
+### Things I'll Do This Month: January 2017
+- [ ] Running
+- [ ] Woodwork Course
 
-### Backlog: Side Projects :)
-- [ ] Raspberry Pi Sonos + Hue device
-- [ ] Make a Chrome Extension [A tutorial is on 24 ways](https://24ways.org/2016/how-to-make-a-chrome-extension/)
-
-### Backlog: Code Things I Want to Do/Play With
-- [ ] Strava API + Twitter API. i.e. new strava activity, then post a tweet, update a counter on a website.
-- [ ] Something useful for the house. IoT but without a phone. Button to turn off everything e.g. lights, sonos.
+### Backlog: Side Projects
 - [ ] Re-develop [my website](https://big-andy.co.uk)
-- [ ] Withings API -> WordPress 'Health' CPT using wpapi 
+- [ ] Finish organising Garage
+- [ ] Raspberry Pi Sonos + Hue device
+- [ ] Withings API -> WordPress 'Health' CPT using wpapi
+
+### Goals for 2017
+#### Personal Goals
+- [ ] attend more meet ups
+
+#### Professional Goals
+- [ ] learn more about APIs, ES2015/ES2016, Node and React
+- [ ] Use these skills to do things in the real world
+
+#### Fitness Goals
+- [ ] Reading half-marathon - 19th March 2017
+- [ ] Join running club ([Didcot Runners](http://didcotrunners.org.uk/club-info))
+- [ ] Run 3x a week - 2x days out of Mon, Wed, Fri, plus Thursdays
+
+#### Travelling Goals
+- [ ] Have more holidays
+- [ ] Visit new countries
