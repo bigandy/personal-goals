@@ -7,3 +7,4 @@
 ## Non-tech
 - ["Natural Born Heroes: The Lost Secrets of Strength and Endurance"](https://www.amazon.co.uk/dp/B00IUPM66S/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Christopher McDougall
 - ["Hal Koerner's Field Guide to UltraRunning"](https://www.amazon.co.uk/dp/B00MYEQGFI/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Hal Koerner
+- ["Where my Heart Used to Beat"](https://www.amazon.co.uk/dp/B01GP9Y8YS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Sebastian Faulks
