@@ -10,21 +10,15 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 
 # 2nd January 2017
 
-## Things I'll Do This Week:
+## Week Goals:
 - [x] Running (~~Tue~~, Thu, Weekend)
 - [x] Add Running Log to this repo
 - [ ] Research Marathons in September - November 2017
 
-### Things I'll Do This Month: January 2017
+### Month Goals: January 2017
 - [ ] Running
 - [ ] Woodwork Course
 - [ ] Finish [JavaScript 30](https://javascript30.com/)
-
-### Backlog: Side Projects
-- [ ] Re-develop [my website](https://big-andy.co.uk)
-- [ ] Finish organising Garage
-- [ ] Raspberry Pi Sonos + Hue device
-- [ ] Withings API -> WordPress 'Health' CPT using wpapi
 
 ### Goals for 2017
 #### Personal Goals
@@ -42,3 +36,9 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 #### Travelling Goals
 - [ ] Have more holidays
 - [ ] Visit new countries
+
+### Backlog: Side Projects
+- [ ] Re-develop [my website](https://big-andy.co.uk)
+- [ ] Finish organising Garage
+- [ ] Raspberry Pi Sonos + Hue device
+- [ ] Withings API -> WordPress 'Health' CPT using wpapi
