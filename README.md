@@ -11,7 +11,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 # 2nd January 2017
 
 ## Things I'll Do This Week:
-- [ ] Running
+- [x] Running (~~Tue~~, Thu, Weekend)
 
 ### Things I'll Do This Month: January 2017
 - [ ] Running
