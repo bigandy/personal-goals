@@ -32,7 +32,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 #### Fitness Goals
 - [ ] Reading half-marathon - 19th March 2017
 - [ ] Join running club ([Didcot Runners](http://didcotrunners.org.uk/club-info))
-- [ ] Run 3x a week - 2x days out of Mon, Wed, Fri, plus Thursdays
+- [ ] Run 3x a week
 
 #### Travelling Goals
 - [ ] Have more holidays
