@@ -11,8 +11,9 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 # 2nd January 2017
 
 ## Week Goals:
-- [x] Running (~~Tue~~, Thu, Weekend)
+- [x] Running (~~Tue~~, ~~Thu~~, Weekend)
 - [x] Add Running Log to this repo
+- [x] Chase Running Club membership
 - [ ] Research Half-marathons in April - November 2017
 - [ ] Research Marathons in September - November 2017
 
