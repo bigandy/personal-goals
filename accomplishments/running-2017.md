@@ -5,3 +5,5 @@
 - 07/01/2017 [Chilton A34 Underpass via Harwell and back](https://www.strava.com/activities/823762273); 8.0 miles; 1:10:20; Morning; Foggy until got above it then sun/blue skies; 8 degrees; Third of the week!
 
 ---
+
+- 09/01/2017 [Muddy Muddy Reverse Steventon](https://www.strava.com/activities/826263274/overview); 4.0 miles; 34:31; muddy and slippery; a bit of rain; mild.
