@@ -8,13 +8,13 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-# 2nd January 2017
+# 9th January 2017
 
 ## Week Goals:
-- [x] Running (~~Tue~~, ~~Thu~~, ~~Weekend~~)
-- [x] Add Running Log to this repo
-- [x] Chase Running Club membership
-- [x] Research Half-marathons in April - November 2017
+- [ ] Running (Mon, Wed, Fri)
+- [ ] Woodwork course (Tue evening, Oxford)
+- [ ] Do more of [JavaScript 30](https://javascript30.com/)
+- [ ] Chase Running Club membership
 - [ ] Research Marathons in September - November 2017
 
 ### Month Goals: January 2017
