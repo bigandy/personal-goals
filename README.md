@@ -11,10 +11,13 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 # 9th January 2017
 
 ## Week Goals:
-- [ ] Running (~~Mon~~, Wed, Fri)
+- [ ] Running
+  - [x] Mon, 
+  - [ ] Wed, 
+  - [ ] Fri
 - [ ] Woodwork course (Tue evening, Oxford)
 - [ ] Do more of [JavaScript 30](https://javascript30.com/)
-- [ ] Chase Running Club membership
+- [x] Chase Running Club membership (again, this club seems to be v.slow at this thing)
 - [ ] Research Marathons in September - November 2017
 
 ### Month Goals: January 2017
