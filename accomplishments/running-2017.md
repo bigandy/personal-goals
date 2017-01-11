@@ -7,3 +7,4 @@
 ---
 
 - 09/01/2017 [Muddy Muddy Reverse Steventon](https://www.strava.com/activities/826263274/overview); 4.0 miles; 34:31; muddy and slippery; a bit of rain; mild.
+- 11/01/2017 [Milton Loop](https://www.strava.com/activities/828402032) 3.2 miles; 25:18; Knackered today; sunny, mild; a bit of wind.
