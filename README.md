@@ -3,14 +3,14 @@ Personal Goals
 
 Personal goals made open source. Inspired and based on [Una's Personal Goals](https://github.com/una/personal-goals). I am keeping them here because: accessibility across computers I use, transparency, accountability, and versioning.
 
-# Overarching Goals
+## Overarching Goals
 1. Keep Running
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-# 9th January 2017
+## 9th January 2017
 
-## Week Goals:
+### Week Goals:
 - [ ] Running
   - [x] Mon, 
   - [x] Wed, 
