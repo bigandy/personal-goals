@@ -14,7 +14,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 - [ ] Running
   - [x] Mon, 
   - [x] Wed, 
-  - [ ] Fri
+  - [x] Fri
 - [x] Woodwork course (Tue evening, Oxford) -- was great, made a [mortise and tenon joint](https://en.wikipedia.org/wiki/Mortise_and_tenon)
 - [ ] Do more of [JavaScript 30](https://javascript30.com/)
 - [x] Chase Running Club membership (again, this club seems to be v.slow at this thing)
