@@ -19,6 +19,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 - [ ] Do more of [JavaScript 30](https://javascript30.com/)
 - [x] Chase Running Club membership (again, this club seems to be v.slow at this thing)
 - [ ] Research Marathons in September - November 2017
+- [x] Start React + Strava app
 
 ### Month Goals: January 2017
 - [ ] Running
