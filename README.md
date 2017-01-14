@@ -11,15 +11,17 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 ## 9th January 2017
 
 ### Week Goals:
-- [ ] Running
-  - [x] Mon, 
-  - [x] Wed, 
+- [x] Running
+  - [x] Mon,
+  - [x] Wed,
   - [x] Fri
 - [x] Woodwork course (Tue evening, Oxford) -- was great, made a [mortise and tenon joint](https://en.wikipedia.org/wiki/Mortise_and_tenon)
-- [ ] Do more of [JavaScript 30](https://javascript30.com/)
 - [x] Chase Running Club membership (again, this club seems to be v.slow at this thing)
-- [ ] Research Marathons in September - November 2017
 - [x] Start React + Strava app
+- [ ] Learn more React
+- [ ] Start to learn about React Router
+- [ ] Research Marathons in September - November 2017
+- [ ] Do more of [JavaScript 30](https://javascript30.com/)
 
 ### Month Goals: January 2017
 - [ ] Running
