@@ -1,4 +1,4 @@
-# Currently reading these books
+# I am currently reading these books
 
 ## Technology
 - ["You Don't Know JS: Async & Performance"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md) by Kyle Simpson
