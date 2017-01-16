@@ -7,6 +7,7 @@
 - [Cat's Cradle](https://en.wikipedia.org/wiki/Cat%27s_Cradle) by Kurt Vonnegut
 - ["Walking home from Mongolia"](https://www.amazon.co.uk/dp/B00CTMA7PK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Rob Lilwall
 - ["Voyageur"](https://www.amazon.co.uk/dp/B004OBZNV2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Robert Twigger
+- ["Where my Heart Used to Beat"](https://www.amazon.co.uk/dp/B01GP9Y8YS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Sebastian Faulks
 
 
 ## Tech Books
