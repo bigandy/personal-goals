@@ -9,5 +9,6 @@
 - 09/01/2017 [Muddy Muddy Reverse Steventon](https://www.strava.com/activities/826263274/overview); 4.0 miles; 34:31; muddy and slippery; a bit of rain; mild.
 - 11/01/2017 [Milton Loop](https://www.strava.com/activities/828402032) 3.2 miles; 25:18; Knackered today; sunny, mild; a bit of wind.
 - 13/01/2017 [Extended Milton and Steventon Loop](https://www.strava.com/activities/830466350); 5.5mi; 45:40; Cold wind; muddy and waterlogged; wet feet squelch squerch; hill!
+- 15/01/2017 [Wet GWP circumnavigation](https://www.strava.com/activities/832542811); 6.5mi; 52:40; Wet and then down Cow Lane very muddy; Need some off road shoes!
 
 ---
