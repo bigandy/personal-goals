@@ -12,3 +12,5 @@
 - 15/01/2017 [Wet GWP circumnavigation](https://www.strava.com/activities/832542811); 6.5mi; 52:40; Wet and then down Cow Lane very muddy; Need some off road shoes!
 
 ---
+
+- 17/01/2017 [Slippery Steventon Loop](https://www.strava.com/activities/834879492); 4.0mi; 35:54; Very slippery, esp. next to railway; not much energy today; 4C and a bit sunny.
