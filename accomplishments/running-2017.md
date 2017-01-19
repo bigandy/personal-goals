@@ -14,3 +14,4 @@
 ---
 
 - 17/01/2017 [Slippery Steventon Loop](https://www.strava.com/activities/834879492); 4.0mi; 35:54; Very slippery, esp. next to railway; not much energy today; 4C and a bit sunny.
+- 19/01/2017 [CW Milton Loop](https://www.strava.com/activities/837064791); 3.2mi; 24:50; sunny but cold; faster than usual.
