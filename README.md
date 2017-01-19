@@ -13,11 +13,11 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 ### Week Goals:
 - [ ] Running
   - [x] Tue,
-  - [ ] Thu,
+  - [x] Thu,
   - [ ] Weekend
 - [ ] ~~Woodwork course (Tue evening, Oxford)~~
 - [ ] Continue React + Strava app
-- [ ] Continue to learn about React Router
+- [ ] Continue to learn about React Router and Redux
 - [ ] Enter a marathon in September - November 2017
 - [ ] Do more of [JavaScript 30](https://javascript30.com/)
 
