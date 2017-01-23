@@ -15,3 +15,6 @@
 
 - 17/01/2017 [Slippery Steventon Loop](https://www.strava.com/activities/834879492); 4.0mi; 35:54; Very slippery, esp. next to railway; not much energy today; 4C and a bit sunny.
 - 19/01/2017 [CW Milton Loop](https://www.strava.com/activities/837064791); 3.2mi; 24:50; sunny but cold; faster than usual.
+- 21/01/2017 [Chilton Upton Coldie](https://www.strava.com/activities/838909784); 10.5mi; 1:27:48; Brrrr was super cold. Sunny. Finally found way to link Chilton and Upton!
+ 
+ ---
