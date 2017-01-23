@@ -4,7 +4,7 @@ Personal Goals
 Personal goals made open source. Inspired and based on [Una's Personal Goals](https://github.com/una/personal-goals). I am keeping them here because: accessibility across computers I use, transparency, accountability, and versioning.
 
 ## Overarching Goals
-1. Keep Running [Running Log 2017](/accomplishments/running-2017.md)
+1. Keep Running [Running Log 2017](/running/running-2017.md)
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
@@ -19,7 +19,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 - [ ] Continue React + Strava app
 - [ ] Enter a marathon in September - November 2017
 - [ ] Do more of [JavaScript 30](https://javascript30.com/)
-- [ ] Long weekend in France 
+- [ ] Long weekend in France
 
 ### Month Goals: January 2017
 - [ ] Running
