@@ -18,3 +18,5 @@
 - 21/01/2017 [Chilton Upton Coldie](https://www.strava.com/activities/838909784); 10.5mi; 1:27:48; Brrrr was super cold. Sunny. Finally found way to link Chilton and Upton!
  
  ---
+
+- 24/01/2017 [Extended Steventon Loop](https://www.strava.com/activities/842608918); 5.0mi; 40:46; Sunny; less cold but enough for mud to be mostly frozen; saw a heron and two deer.
