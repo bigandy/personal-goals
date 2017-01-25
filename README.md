@@ -15,7 +15,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
   - [x] Tue,
   - [ ] Thu,
   - [ ] Weekend
-- [ ] Woodwork course (Tue evening, Oxford)
+- [x] Woodwork course (Tue evening, Oxford)
 - [ ] Continue React + Strava app
 - [ ] Enter a marathon in September - November 2017
 - [ ] Do more of [JavaScript 30](https://javascript30.com/)
