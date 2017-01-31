@@ -22,3 +22,7 @@
 - 24/01/2017 [Extended Steventon Loop](https://www.strava.com/activities/842608918); 5.0mi; 40:46; Sunny; less cold but enough for mud to be mostly frozen; saw a heron and two deer.
 - 26/01/2017 [Fast CW Milton Loop](https://www.strava.com/activities/844819486); 3.2mi; 23:29; Cold; Decided to run some fast sections. Lots of people running opposite direction. 
 - 28/01/2017 [Extended Pointe du plombe](https://www.strava.com/activities/846765686); 8.5mi; 1:11:14; warm, sunny, windy towards Pointe du plombe, lunch run; fast in places.
+
+---
+
+- 31/01/2017 [CCW Milton Loop](https://www.strava.com/activities/850386543); 3.2mi; 24:03; Humid, grey and horrible; lots of runners going other way.
