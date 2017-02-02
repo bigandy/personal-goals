@@ -23,3 +23,4 @@
 
 **Week 5**
 - 31/01/2017 [CCW Milton Loop](https://www.strava.com/activities/850386543); 3.2mi; 24:03; Humid, grey and horrible; lots of runners going other way.
+- 02/02/2017 [Extended Reverse Steventon](https://www.strava.com/activities/852639200); 4.6mi; 39:24; Tired; Muddy; Windy; Low energy. 10C; glad I did it though!
