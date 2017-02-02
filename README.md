@@ -13,7 +13,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 ### Week Goals:
 - [ ] Running
   - [x] Tue,
-  - [ ] Thu,
+  - [x] Thu,
   - [ ] Weekend 1
   - [ ] Weekend 2
 - [x] Woodwork course (Tue evening, Oxford)
