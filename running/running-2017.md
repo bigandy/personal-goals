@@ -30,7 +30,7 @@
 
 ## Monthly Totals
 Month | Miles 
---- | ---
+:---: | ---:
 Jan | 73.2 mi
 Feb | x mi
 Mar | x mi
