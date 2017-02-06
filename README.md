@@ -8,15 +8,17 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-## 30th January 2017
+## 6th February 2017
 
 ### Week Goals:
 - [ ] Running
-  - [x] Tue,
-  - [x] Thu,
+  - [ ] Tue,
+  - [ ] Thu,
   - [ ] Weekend 1
   - [ ] Weekend 2
-- [x] Woodwork course (Tue evening, Oxford)
+- [ ] Arthurs Birthday and party
+- [ ] Tidy up TV Cabling
+- [ ] Final Woodwork course (Tue evening, Oxford)
 - [ ] Continue React + Strava app
 - [ ] Enter a marathon in September - November 2017
 - [ ] Do more of [JavaScript 30](https://javascript30.com/)
