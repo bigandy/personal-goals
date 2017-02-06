@@ -24,6 +24,6 @@
 **Week 5**
 - 31/01/2017 [CCW Milton Loop](https://www.strava.com/activities/850386543); 3.2mi; 24:03; Humid, grey and horrible; lots of runners going other way.
 - 02/02/2017 [Extended Reverse Steventon](https://www.strava.com/activities/852639200); 4.6mi; 39:24; Tired; Muddy; Windy; Low energy. 10C; glad I did it though!
-
-
+- 04/02/2017 [CW Harwell Loop](https://www.strava.com/activities/855085477); 3.8mi; 30:09; **New trail shoes**. Still tired today. Colder out. Muddy.
+- 05/02/2017 [Ridgeway! 1/2 marathon distance](https://www.strava.com/activities/855904001); **13.8mi**; 1:58:03; Cold but not freezing, foggy, Ridgeway at last. Lost on way back. Two blisters from new shoes. Good grip though!
 
