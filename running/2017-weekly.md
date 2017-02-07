@@ -28,4 +28,4 @@
 - 05/02/2017 [Ridgeway! 1/2 marathon distance](https://www.strava.com/activities/855904001); **13.8mi**; 1:58:03; Cold but not freezing, foggy, Ridgeway at last. Lost on way back. Two blisters from new shoes. Good grip though!
 
 **Week 6**
-- 07/02/2017 [Reverse Steventon + Milton](https://www.strava.com/activities/858189541); 5.4mi; 44:59; Was supposed to be slower. Sunny. Mild. Wet between Steventon + Milton. Tired today.
+- 07/02/2017 [Reverse Steventon + Milton](https://www.strava.com/activities/858189541); 5.4mi; 44:59; Was supposed to be slower. Sunny. Mild. Wet between Steventon + Milton. Tired today (didn't sleep too well last night).
