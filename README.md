@@ -12,13 +12,13 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 
 ### Week Goals:
 - [ ] Running
-  - [ ] Tue,
+  - [x] Tue,
   - [ ] Thu,
   - [ ] Weekend 1
   - [ ] Weekend 2
 - [ ] Arthurs Birthday and party
 - [ ] Tidy up TV Cabling
-- [ ] Final Woodwork course (Tue evening, Oxford)
+- [x] Final Woodwork course (Tue evening, Oxford)
 - [ ] Continue React + Strava app
 - [ ] Enter a marathon in September - November 2017
 - [ ] Do more of [JavaScript 30](https://javascript30.com/)
