@@ -29,3 +29,4 @@
 
 **Week 6**
 - 07/02/2017 [Reverse Steventon + Milton](https://www.strava.com/activities/858189541); 5.4mi; 44:59; Was supposed to be slower. Sunny. Mild. Wet between Steventon + Milton. Tired today (didn't sleep too well last night).
+- 09/02/2017 [Easy CW Milton Loop](https://www.strava.com/activities/860427173); 3.2mi; 26:12; Back hurting (lower rhs) so took it slower. Cold out.
