@@ -13,14 +13,15 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 ### Week Goals:
 - [ ] Running
   - [x] Tue,
-  - [ ] Thu,
+  - [x] Thu,
   - [ ] Weekend 1
   - [ ] Weekend 2
-- [ ] Arthurs Birthday and party
+- [x] Arthurs Birthday
+- [ ] Arthur's Birthday party
 - [ ] Tidy up TV Cabling
 - [x] Final Woodwork course (Tue evening, Oxford)
 - [ ] Continue React + Strava app
-- [ ] Enter a marathon in September - November 2017
+- [ ] Enter a marathon in September - November 2017 (EA still need to transfer my club association)
 - [ ] Do more of [JavaScript 30](https://javascript30.com/)
 
 ### Month Goals: February 2017
