@@ -11,14 +11,14 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 ## 6th February 2017
 
 ### Week Goals:
-- [ ] Running
+- [x] Running
   - [x] Tue,
   - [x] Thu,
-  - [ ] Weekend 1
-  - [ ] Weekend 2
+  - [x] Weekend 1
+  - [ ] Weekend 2 --> Tired and legs heavy. Need to run short Sat and then long Sun to have more energy. Still. Over 20 weekly goal!
 - [x] Arthurs Birthday
-- [ ] Arthur's Birthday party
-- [ ] Tidy up TV Cabling
+- [x] Arthur's Birthday party
+- [x] Tidy up TV Cabling
 - [x] Final Woodwork course (Tue evening, Oxford)
 - [ ] Continue React + Strava app
 - [ ] Enter a marathon in September - November 2017 (EA still need to transfer my club association)
@@ -26,7 +26,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 
 ### Month Goals: February 2017
 - [ ] Running - 4x a week
-- [ ] Woodwork Course (Tuesdays for 5 weeks from 10th of January)
+- [x] Woodwork Course (Tuesdays for 5 weeks from 10th of January)
 - [ ] Finish [JavaScript 30](https://javascript30.com/)
 
 ### Backlog: Side Projects

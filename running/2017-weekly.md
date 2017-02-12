@@ -15,10 +15,10 @@
 - 17/01/2017 [Slippery Steventon Loop](https://www.strava.com/activities/834879492); 4.0mi; 35:54; Very slippery, esp. next to railway; not much energy today; 4C and a bit sunny.
 - 19/01/2017 [CW Milton Loop](https://www.strava.com/activities/837064791); 3.2mi; 24:50; sunny but cold; faster than usual.
 - 21/01/2017 [Chilton Upton Coldie](https://www.strava.com/activities/838909784); 10.5mi; 1:27:48; Brrrr was super cold. Sunny. Finally found way to link Chilton and Upton!
- 
+
 **Week 4**
 - 24/01/2017 [Extended Steventon Loop](https://www.strava.com/activities/842608918); 5.0mi; 40:46; Sunny; less cold but enough for mud to be mostly frozen; saw a heron and two deer.
-- 26/01/2017 [Fast CW Milton Loop](https://www.strava.com/activities/844819486); 3.2mi; 23:29; Cold; Decided to run some fast sections. Lots of people running opposite direction. 
+- 26/01/2017 [Fast CW Milton Loop](https://www.strava.com/activities/844819486); 3.2mi; 23:29; Cold; Decided to run some fast sections. Lots of people running opposite direction.
 - 28/01/2017 [Extended Pointe du plombe](https://www.strava.com/activities/846765686); 8.5mi; 1:11:14; warm, sunny, windy towards Pointe du plombe, lunch run; fast in places.
 
 **Week 5**
@@ -30,3 +30,4 @@
 **Week 6**
 - 07/02/2017 [Reverse Steventon + Milton](https://www.strava.com/activities/858189541); 5.4mi; 44:59; Was supposed to be slower. Sunny. Mild. Wet between Steventon + Milton. Tired today (didn't sleep too well last night).
 - 09/02/2017 [Easy CW Milton Loop](https://www.strava.com/activities/860427173); 3.2mi; 26:12; Back hurting (lower rhs) so took it slower. Cold out.
+- 11/02/2017 [Snow! Harwell > Chilton > Upton > Didcot](https://www.strava.com/activities/862424265); 12.0mi; 1:41:19; Light snow, cold wind, tired head. Had to go long today not tomorrow so can do something tomorrow. + Blisters from new shoes.
