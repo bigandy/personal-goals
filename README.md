@@ -12,12 +12,12 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 
 ### Week Goals:
 - [ ] Running
-  - [ ] Tue,
+  - [x] Tue,
   - [ ] Thu,
   - [ ] Fri,
   - [ ] Weekend
   
-- [ ] Visit Bro in London  
+- [ ] Visit Bro in London
 - [ ] Breaking Borders in Reading on Weds
 - [ ] Continue React + Strava app
 - [ ] Enter a marathon in September - November 2017 (EA still need to transfer my club association)
