@@ -31,3 +31,6 @@
 - 07/02/2017 [Reverse Steventon + Milton](https://www.strava.com/activities/858189541); 5.4mi; 44:59; Was supposed to be slower. Sunny. Mild. Wet between Steventon + Milton. Tired today (didn't sleep too well last night).
 - 09/02/2017 [Easy CW Milton Loop](https://www.strava.com/activities/860427173); 3.2mi; 26:12; Back hurting (lower rhs) so took it slower. Cold out.
 - 11/02/2017 [Snow! Harwell > Chilton > Upton > Didcot](https://www.strava.com/activities/862424265); 12.0mi; 1:41:19; Light snow, cold wind, tired head. Had to go long today not tomorrow so can do something tomorrow. + Blisters from new shoes.
+
+**Week 7**
+- 14/02/2017 [Steventon Loop](https://www.strava.com/activities/865977387); 4.1mi; 34:45; Knew I shouldn't have eaten that Bounty before running. Really knackered today. Weather mild. Mud less muddy.
