@@ -16,7 +16,6 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
   - [ ] Thu,
   - [ ] Fri,
   - [ ] Weekend
-  
 - [ ] Visit Bro in London
 - [ ] Breaking Borders in Reading on Weds
 - [ ] Continue React + Strava app
