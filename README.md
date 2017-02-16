@@ -13,11 +13,11 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 ### Week Goals:
 - [ ] Running
   - [x] Tue,
-  - [ ] Thu,
+  - [x] Thu,
   - [ ] Fri,
   - [ ] Weekend
 - [ ] Visit Bro in London
-- [ ] Breaking Borders in Reading on Weds
+- [x] Breaking Borders in Reading on Weds
 - [ ] Continue React + Strava app
 - [ ] Enter a marathon in September - November 2017 (EA still need to transfer my club association)
 - [ ] Do more of [JavaScript 30](https://javascript30.com/)
