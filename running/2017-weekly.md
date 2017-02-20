@@ -34,3 +34,7 @@
 
 **Week 7**
 - 14/02/2017 [Steventon Loop](https://www.strava.com/activities/865977387); 4.1mi; 34:45; Knew I shouldn't have eaten that Bounty before running. Really knackered today. Weather mild. Mud less muddy.
+- 16/02/2017 [Extended Reverse Steventon](https://www.strava.com/activities/868343874); 4.6mi; 36:51; Very Slippery Mud! Had to run fast to beat the other runner going the other way round the loop. Tingling behind legs. Mild out.
+- 17/02/2017 [Chilton and back chased by the setting sun](https://www.strava.com/activities/869725080); 8.1mi; 1:07:27; Tingling in legs persists. Mild out only 1 layer. Beautiful sunset.
+- 19/02/2017 [3 miles to end the week](https://www.strava.com/activities/872609880); 3.2mi; 27:43; Tingling persists. Knackered from weekend in Ldn and driving back this afternoon. Dark out. Evening run.
+
