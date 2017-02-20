@@ -18,6 +18,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
   - [ ] Weekend 2
 - [ ] Investigate Sports Physio and book appointment
 - [ ] Watch first episode of SS-GB
+- [ ] Read more about React Router 4 and React Redux
 
 ### Month Goals: February 2017
 - [ ] Running - 4x a week
