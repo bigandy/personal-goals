@@ -38,3 +38,5 @@
 - 17/02/2017 [Chilton and back chased by the setting sun](https://www.strava.com/activities/869725080); 8.1mi; 1:07:27; Tingling in legs persists. Mild out only 1 layer. Beautiful sunset.
 - 19/02/2017 [3 miles to end the week](https://www.strava.com/activities/872609880); 3.2mi; 27:43; Tingling persists. Knackered from weekend in Ldn and driving back this afternoon. Dark out. Evening run.
 
+**Week 8**
+- 21/02/2017 [Windy Steventon Loop](https://www.strava.com/activities/874465040); 4.1mi; 33:43; Painful and tingling legs. Currently enquiring about physio. Tight hips because of new stretches I've been doing. Bleurgh :)
