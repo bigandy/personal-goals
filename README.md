@@ -12,19 +12,20 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 
 ### Week Goals:
 - [ ] Running
-  - [ ] Tue,
+  - [x] Tue,
   - [ ] Thu,
   - [ ] Weekend 1,
   - [ ] Weekend 2
-- [ ] Investigate Sports Physio and book appointment
-- [ ] Watch first episode of SS-GB
+- [x] Investigate different Sports Physios and book appointment
+- [x] Watch first episode of SS-GB
+- [x] Watch more Black Mirror
 - [ ] Read more about React Router 4 and React Redux
 
 ### Month Goals: February 2017
 - [ ] Running - 4x a week
 - [x] Woodwork Course (Tuesdays for 5 weeks from 10th of January)
 - [ ] Finish [JavaScript 30](https://javascript30.com/)
-- [ ] Continue React + Strava app
+- [x] Continue React + Strava app
 - [ ] Enter a marathon in September - November 2017 (EA still need to transfer my club association)
 - [ ] Do more of [JavaScript 30](https://javascript30.com/)
 
