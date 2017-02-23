@@ -20,7 +20,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 - [x] Watch first episode of SS-GB
 - [x] Watch more Black Mirror
 - [x] Read more about React Router 4
-- [ ] Start bigandy-react project with react + react router 4
+- [x] Start bigandy-react project with react + react router 4
 - [ ] Investigate new phone contracts
 
 ### Month Goals: February 2017
