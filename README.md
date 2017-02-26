@@ -20,6 +20,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 - [x] Watch first episode of SS-GB
 - [x] Watch more Black Mirror
 - [ ] Read more about React Router 4 and React Redux
+- [ ] Sports Physio Appointment Friday @ 1700
 
 ### Month Goals: February 2017
 - [ ] Running - 4x a week
