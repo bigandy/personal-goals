@@ -8,24 +8,24 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-## 20th February 2017
+## 27th February 2017
 
 ### Week Goals:
 - [ ] Running
-  - [x] Tue,
+  - [ ] Tue,
   - [ ] Thu,
   - [ ] Weekend 1,
   - [ ] Weekend 2
-- [x] Investigate different Sports Physios and book appointment
-- [x] Watch first episode of SS-GB
-- [x] Watch more Black Mirror
-- [x] Sports Physio Appointment Friday @ 1700
-- [x] Read more about React Router 4
-- [x] Start bigandy-react project with react + react router 4
-- [ ] Investigate new phone contracts
+- [x] Finish [Learn Redux](https://learnredux.com/) course
+- [ ] Continue bigandy-react project with react + react router 4 + Redux
+- [x] Investigate new phone contracts
 - [ ] Daily Stretches
-	- [x] Fri
-	- [x] Sat
+	- [ ] Mon
+	- [ ] Tue
+	- [ ] Wed
+	- [ ] Thu
+	- [ ] Fri
+	- [ ] Sat
 	- [ ] Sun
 
 ### Month Goals: February 2017
