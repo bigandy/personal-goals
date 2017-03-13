@@ -14,7 +14,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 - [ ] Running
   - [ ] Tue
 - [x] CSS Grid learning and demo creation
-- [ ] Watch [CSS Grid Videos](http://gridbyexample.com/video/)
+- [x] Watch [CSS Grid Videos](http://gridbyexample.com/video/)
 - [ ] Daily Stretches
 	- [ ] Mon
 	- [ ] Tue
