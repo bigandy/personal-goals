@@ -15,6 +15,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
   - [ ] Tue
 - [x] CSS Grid learning and demo creation
 - [x] Watch [CSS Grid Videos](http://gridbyexample.com/video/)
+- [x] Swap grunt for gulp on bigandy.github.io
 - [ ] Daily Stretches
 	- [ ] Mon
 	- [ ] Tue
