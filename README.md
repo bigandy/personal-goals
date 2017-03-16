@@ -11,11 +11,14 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 ## 13th February 2017
 
 ### Week Goals:
-- [ ] Running
-  - [ ] Tue
+- [ ] ~~Running
+  - [ ] Tue~~
 - [x] CSS Grid learning and demo creation
 - [x] Watch [CSS Grid Videos](http://gridbyexample.com/video/)
 - [x] Swap grunt for gulp on bigandy.github.io
+- [x] Be ill ... this is not fun!
+- [ ] Stop being ill
+- [x] Work on style of bigandy.github.io and make code more DRY.
 - [ ] Daily Stretches
 	- [ ] Mon
 	- [ ] Tue
