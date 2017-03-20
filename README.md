@@ -8,35 +8,22 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-## 13th February 2017
+## 20th March 2017
 
 ### Week Goals:
-- [ ] ~~Running
-  - [ ] Tue~~
-- [x] CSS Grid learning and demo creation
-- [x] Watch [CSS Grid Videos](http://gridbyexample.com/video/)
-- [x] Swap grunt for gulp on bigandy.github.io
-- [x] Be ill ... this is not fun!
-- [ ] Stop being ill
-- [x] Work on style of bigandy.github.io and make code more DRY.
+- [ ] Recover from illness
+- [x] Cancel physio Appointment
+- [ ] Repair DSLR body or buy new DSLR body
+- [x] Start working on v6 of big-andy.co.uk
 - [ ] Daily Stretches
-	- [ ] Mon
-	- [ ] Tue
-	- [ ] Wed
-	- [ ] Thu
-	- [ ] Fri
-	- [ ] Sat
-	- [ ] Sun
+- [ ] Paint Fence + Gate
+- [ ] Go for a short run -- gotta build up stamina again
 
 ### Month Goals: March 2017
 - [ ] Get back into running
-- [ ] Reading Half Marathon - 19th March 2017
-- [ ] Learn all about the new CSS Grid syntax
 - [ ] Carry on with [JavaScript 30](https://javascript30.com/)
-- [ ] Start next version of my website
+- [x] Start next version of [my website](https://big-andy.co.uk)
 
 ### Backlog: Side Projects
-- [ ] Re-develop [my website](https://big-andy.co.uk)
-- [ ] Finish organising Garage
 - [ ] Raspberry Pi Sonos + Hue device
 - [ ] Withings API -> WordPress 'Health' CPT using wpapi
