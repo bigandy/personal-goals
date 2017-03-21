@@ -11,6 +11,8 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 ## 20th March 2017
 
 ### Week Goals:
+- [x] Buy [es6.io](https://es6.io) course
+- [x] Start [es6.io](https://es6.io) course
 - [ ] Recover from illness
 - [x] Cancel physio Appointment
 - [ ] Repair DSLR body or buy new DSLR body
