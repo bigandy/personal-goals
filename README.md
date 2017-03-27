@@ -8,18 +8,16 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-## 20th March 2017
+## 27th March 2017
 
 ### Week Goals:
-- [x] Buy [es6.io](https://es6.io) course
-- [x] Start [es6.io](https://es6.io) course
-- [ ] Recover from illness
-- [x] Cancel physio Appointment
-- [ ] Repair DSLR body or buy new DSLR body
-- [x] Start working on v6 of big-andy.co.uk
+- [ ] Continue [es6.io](https://es6.io) course
+- [ ] Buy new DSLR body
+- [ ] More DIY in garden and house
 - [ ] Daily Stretches
-- [ ] Paint Fence + Gate
 - [ ] Go for a short run -- gotta build up stamina again
+- [ ] Parents in Law visiting
+- [ ] Render Conference and Workshop - Weds - Fri, Oxford
 
 ### Month Goals: March 2017
 - [ ] Get back into running
