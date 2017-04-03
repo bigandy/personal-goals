@@ -8,21 +8,22 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-## 27th March 2017
+## 3rd April 2017
 
 ### Week Goals:
 - [ ] Continue [es6.io](https://es6.io) course
 - [ ] Buy new DSLR body
-- [ ] More DIY in garden and house
 - [ ] Daily Stretches
 - [ ] Go for a short run -- gotta build up stamina again
 - [ ] Parents in Law visiting
-- [ ] Render Conference and Workshop - Weds - Fri, Oxford
+- [ ] Set up nginx with Brotil server setup on Linode
 
-### Month Goals: March 2017
+
+### Month Goals: April 2017
 - [ ] Get back into running
 - [ ] Carry on with [JavaScript 30](https://javascript30.com/)
 - [x] Start next version of [my website](https://big-andy.co.uk)
+
 
 ### Backlog: Side Projects
 - [ ] Raspberry Pi Sonos + Hue device
