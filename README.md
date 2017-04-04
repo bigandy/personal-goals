@@ -11,12 +11,13 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 ## 3rd April 2017
 
 ### Week Goals:
-- [ ] Continue [es6.io](https://es6.io) course
+- [x] Continue [es6.io](https://es6.io) course
 - [ ] Buy new DSLR body
 - [ ] Daily Stretches
 - [ ] Go for a short run -- gotta build up stamina again
 - [ ] Parents in Law visiting
 - [ ] Set up nginx with Brotil server setup on Linode
+- [ ] Ikea / Reading on the weekend
 
 
 ### Month Goals: April 2017
