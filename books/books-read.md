@@ -14,6 +14,7 @@
 - ["1984"](https://www.amazon.co.uk/Nineteen-Eighty-Four-Penguin-Modern-Classics/dp/014118776X/ref=sr_1_1?ie=UTF8&qid=1485466151&sr=8-1&keywords=1984) by George Orwell
 - ["Empire of the Ants"](https://www.amazon.co.uk/dp/B009XBQH5Y/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Bernard Werber
 - ["Human Acts"](https://www.amazon.co.uk/dp/B0179NVFC2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Han Kang
+- ["Travels with Charley"](https://www.amazon.co.uk/d/cka/Travels-Charley-Search-America-Penguin-Modern-Classics/0141186100/ref=sr_1_1?ie=UTF8&qid=1491915604&sr=8-1&keywords=travels+with+charlie) by John Steinbeck
 
 ## Tech Books
 - [Inclusive Design Patterns](https://www.smashingmagazine.com/books/#inclusive-design-patterns) by Heydon Pickering

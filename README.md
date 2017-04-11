@@ -8,16 +8,18 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-## 3rd April 2017
+## 10th April 2017
 
 ### Week Goals:
-- [x] Continue [es6.io](https://es6.io) course
-- [ ] Buy new DSLR body
-- [ ] Daily Stretches
-- [ ] Go for a short run -- gotta build up stamina again
-- [ ] Parents in Law visiting
-- [ ] Set up nginx with Brotil server setup on Linode
-- [ ] Ikea / Reading on the weekend
+- [ ] Continue [es6.io](https://es6.io) course
+- [x] Buy new DSLR body
+- [ ] Pick up + Drop off Arthur - Weds
+- [ ] Investigate cache busting e.g. script.352348e0ac.js
+- [ ] Investigate gulp workflow for creating cache busting
+- [ ] Investigate PHP creation of cache busting i.e for ServiceWorker.js creation.
+- [ ] Cache Busting: Sounds like I need one system to rule them!
+- [ ] Cache Busting nginx redirects
+- [ ] Easter!
 
 
 ### Month Goals: April 2017
