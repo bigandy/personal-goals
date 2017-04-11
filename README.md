@@ -14,11 +14,11 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 - [ ] Continue [es6.io](https://es6.io) course
 - [x] Buy new DSLR body
 - [ ] Pick up + Drop off Arthur - Weds
-- [ ] Investigate cache busting e.g. script.352348e0ac.js
-- [ ] Investigate gulp workflow for creating cache busting
-- [ ] Investigate PHP creation of cache busting i.e for ServiceWorker.js creation.
-- [ ] Cache Busting: Sounds like I need one system to rule them!
-- [ ] Cache Busting nginx redirects
+- [x] Investigate cache busting e.g. script.352348e0ac.js
+- [x] Investigate gulp workflow for creating cache busting
+- [x] Investigate PHP creation of cache busting i.e for ServiceWorker.js creation.
+- [x] Cache Busting: Sounds like I need one system to rule them!
+- [x] Cache Busting nginx redirects
 - [ ] Easter!
 
 
