@@ -15,6 +15,7 @@
 - ["Empire of the Ants"](https://www.amazon.co.uk/dp/B009XBQH5Y/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Bernard Werber
 - ["Human Acts"](https://www.amazon.co.uk/dp/B0179NVFC2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Han Kang
 - ["Travels with Charley"](https://www.amazon.co.uk/d/cka/Travels-Charley-Search-America-Penguin-Modern-Classics/0141186100/ref=sr_1_1?ie=UTF8&qid=1491915604&sr=8-1&keywords=travels+with+charlie) by John Steinbeck
+- ["Ship Breaker: Number 1 in series"](https://www.amazon.co.uk/Ship-Breaker-Paolo-Bacigalupi/dp/1907411100/ref=sr_1_1?s=books&ie=UTF8&qid=1491915644&sr=1-1&keywords=ship+breaker) by Paolo Bacigalupi
 
 ## Tech Books
 - [Inclusive Design Patterns](https://www.smashingmagazine.com/books/#inclusive-design-patterns) by Heydon Pickering
