@@ -14,10 +14,10 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 - [ ] Continue [es6.io](https://es6.io) course
 - [x] Long weekend for Easter!
 - [x] Experiment with IndexedDB
-- [ ] Apply IndexedDB to http://codepen.io/bigandy/pen/QKxLKm
+- [x] Apply IndexedDB to http://codepen.io/bigandy/pen/QKxLKm
 - [ ] Read about [Background Sync and ServiceWorkers](https://www.twilio.com/blog/2017/02/send-messages-when-youre-back-online-with-service-workers-and-background-sync.html)
 - [ ] Read about [preload/prefetch and Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
-- [ ] Apply perf tips to my website and see how they affected load times
+- [x] Apply perf tips to [big-andy.co.uk](https://big-andy.co.uk) and see how they alter load times
 
 ### Month Goals: April 2017
 - [ ] Get back into running
