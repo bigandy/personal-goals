@@ -11,12 +11,13 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 ## 24th April 2017
 
 ### Week Goals:
-- [ ] Continue [es6.io](https://es6.io) course
-- [ ] Investigate more create-react-app font + pwa stuff
+- [x] Continue [es6.io](https://es6.io) course
+- [x] Investigate more create-react-app font + pwa stuff
 - [ ] Investigate more IDB and fetching new posts if there are any
 - [ ] Pack for Holiday
 - [ ] Holiday!
 - [ ] Go Running
+- [ ] Mum's Birthday Present + Card
 
 ### Month Goals: April 2017
 - [ ] Get back into running
