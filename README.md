@@ -11,9 +11,8 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 ## 8th May 2017
 
 ### Week Goals:
-- [x] Continue [es6.io](https://es6.io) course
-- [x] Pack for Holiday
-- [x] Holiday!
+- [ ] Continue [es6.io](https://es6.io) course
+- [ ] Buy [Learn Node course](https://learnnode.com)
 
 ### Month Goals: May 2017
 - [ ] Get back into running
