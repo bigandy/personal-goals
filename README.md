@@ -11,12 +11,15 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 ## 8th May 2017
 
 ### Week Goals:
+- [x] Buy [Learn Node](https://learnnode.com) course
+- [x] Start [Learn Node](https://learnnode.com) course
+- [ ] Continue [Learn Node](https://learnnode.com) course
 - [ ] Continue [es6.io](https://es6.io) course
-- [ ] Buy [Learn Node course](https://learnnode.com)
+- [ ] Tidy house and life after holiday
 
 ### Month Goals: May 2017
 - [ ] Get back into running
-- [ ] Carry on with [JavaScript 30](https://javascript30.com/)
+- [ ] Carry on with [JavaScript 30](https://javascript30.com/), [es6.io](https://es6.io), and [Learn Node](https://learnnode.com) courses
 - [x] Start next version of [my website](https://big-andy.co.uk)
 
 
