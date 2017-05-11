@@ -13,7 +13,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 ### Week Goals:
 - [x] Buy [Learn Node](https://learnnode.com) course
 - [x] Start [Learn Node](https://learnnode.com) course
-- [ ] Continue [Learn Node](https://learnnode.com) course
+- [x] Continue [Learn Node](https://learnnode.com) course
 - [ ] Continue [es6.io](https://es6.io) course
 - [ ] Tidy house and life after holiday
 
