@@ -17,6 +17,12 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 - [ ] Continue [es6.io](https://es6.io) course
 - [ ] Tidy house and life after holiday
 
+### Shopping List:
+- [x] Palomino Blackwing Pencils
+- [ ] Small Brass Ruler
+- [ ] Black leuchtturm1917 notebook
+- [ ] Pilot G-Tec-C4 Pens
+
 ### Month Goals: May 2017
 - [ ] Get back into running
 - [ ] Carry on with [JavaScript 30](https://javascript30.com/), [es6.io](https://es6.io), and [Learn Node](https://learnnode.com) courses
