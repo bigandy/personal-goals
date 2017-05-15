@@ -12,7 +12,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 
 ### Week Goals:
 - [ ] Continue [Learn Node](https://learnnode.com) course
-- [ ] Running - Monday Lunchtime
+- [x] Running - Monday Lunchtime
 - [ ] Pick up Arthur Monday
 - [x] Postal Vote form
 
