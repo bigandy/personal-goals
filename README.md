@@ -14,7 +14,12 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 - [ ] Continue [Learn Node](https://learnnode.com) course
 - [ ] Running - Monday Lunchtime
 - [ ] Pick up Arthur Monday
+- [x] Postal Vote form
 
+### Shopping List:
+- [ ] Small Brass Ruler
+- [ ] Black leuchtturm1917 notebook
+- [ ] Pilot G-Tec-C4 Pens
 
 ### Month Goals: May 2017
 - [ ] Get back into running
