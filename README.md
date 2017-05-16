@@ -8,35 +8,25 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-## 13th February 2017
+## 8th May 2017
 
 ### Week Goals:
-- [ ] ~~Running
-  - [ ] Tue~~
-- [x] CSS Grid learning and demo creation
-- [x] Watch [CSS Grid Videos](http://gridbyexample.com/video/)
-- [x] Swap grunt for gulp on bigandy.github.io
-- [x] Be ill ... this is not fun!
-- [ ] Stop being ill
-- [x] Work on style of bigandy.github.io and make code more DRY.
-- [ ] Daily Stretches
-	- [ ] Mon
-	- [ ] Tue
-	- [ ] Wed
-	- [ ] Thu
-	- [ ] Fri
-	- [ ] Sat
-	- [ ] Sun
+- [ ] Continue [Learn Node](https://learnnode.com) course
+- [x] Running - Monday Lunchtime
+- [ ] Pick up Arthur Monday
+- [x] Postal Vote form
 
-### Month Goals: March 2017
+### Shopping List:
+- [ ] Small Brass Ruler
+- [ ] Black leuchtturm1917 notebook
+- [ ] Pilot G-Tec-C4 Pens
+
+### Month Goals: May 2017
 - [ ] Get back into running
-- [ ] Reading Half Marathon - 19th March 2017
-- [ ] Learn all about the new CSS Grid syntax
-- [ ] Carry on with [JavaScript 30](https://javascript30.com/)
-- [ ] Start next version of my website
+- [ ] Carry on with JavaScript learning: [JavaScript 30](https://javascript30.com/), [es6.io](https://es6.io), and [Learn Node](https://learnnode.com) courses
+- [x] Start next version of [my website](https://big-andy.co.uk)
+
 
 ### Backlog: Side Projects
-- [ ] Re-develop [my website](https://big-andy.co.uk)
-- [ ] Finish organising Garage
 - [ ] Raspberry Pi Sonos + Hue device
 - [ ] Withings API -> WordPress 'Health' CPT using wpapi
