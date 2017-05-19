@@ -15,9 +15,11 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 - [x] Running
 	- [x] Monday Lunchtime
 	- [x] Thursday Lunchtime
+	- [ ] Parkrun Saturday (?)
 - [x] Pick up Arthur Monday
 - [x] Look after Arthur Wednesday
 - [x] Postal Vote form
+- [x] Listen to more music at work
 
 ### Shopping List:
 - [x] Small Brass Ruler
@@ -25,9 +27,10 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 - [ ] Pilot G-Tec-C4 Pens
 
 ### Month Goals: May 2017
-- [ ] Get back into running
-- [ ] Carry on with JavaScript learning: [JavaScript 30](https://javascript30.com/), [es6.io](https://es6.io), and [Learn Node](https://learnnode.com) courses
+- [x] Get back into running
+- [x] Carry on with JavaScript learning: [JavaScript 30](https://javascript30.com/), [es6.io](https://es6.io), and [Learn Node](https://learnnode.com) courses
 - [x] Start next version of [my website](https://big-andy.co.uk)
+- [ ] Listen to more music
 
 
 ### Backlog: Side Projects
