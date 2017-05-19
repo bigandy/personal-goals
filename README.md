@@ -8,12 +8,15 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-## 8th May 2017
+## 18th May 2017
 
 ### Week Goals:
 - [x] Continue [Learn Node](https://learnnode.com) course
-- [x] Running - Monday Lunchtime
+- [x] Running
+	- [x] Monday Lunchtime
+	- [x] Thursday Lunchtime
 - [x] Pick up Arthur Monday
+- [x] Look after Arthur Wednesday
 - [x] Postal Vote form
 
 ### Shopping List:
