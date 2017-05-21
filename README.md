@@ -15,16 +15,18 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 - [x] Running
 	- [x] Monday Lunchtime
 	- [x] Thursday Lunchtime
-	- [ ] Parkrun Saturday (?)
+	- [ ] ~~Parkrun Saturday (?)~~
 - [x] Pick up Arthur Monday
 - [x] Look after Arthur Wednesday
 - [x] Postal Vote form
 - [x] Listen to more music at work
+- [x] BBQ Sunday
+- [x] Fix node-wpapi add/update cpt with custom meta and 
 
 ### Shopping List:
 - [x] Small Brass Ruler
 - [ ] Black leuchtturm1917 notebook
-- [ ] Pilot G-Tec-C4 Pens
+- [x] Pilot G-Tec-C4 Pens
 
 ### Month Goals: May 2017
 - [x] Get back into running
