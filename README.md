@@ -8,24 +8,18 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-## 18th May 2017
+## 29th May 2017
 
 ### Week Goals:
-- [x] Continue [Learn Node](https://learnnode.com) course
-- [x] Running
-	- [x] Monday Lunchtime
-	- [x] Thursday Lunchtime
-	- [ ] ~~Parkrun Saturday (?)~~
-- [x] Pick up Arthur Monday
-- [x] Look after Arthur Wednesday
-- [x] Postal Vote form
-- [x] Listen to more music at work
-- [x] BBQ Sunday
-- [x] Fix node-wpapi add/update cpt with custom meta and 
+- [ ] Continue [Learn Node](https://learnnode.com) course
+- [x] Back from France by train
+- [ ] Running
+	- [ ] Wednesday Lunchtime
+- [ ] Arthur dropoff/pickup Tuesday
 
 ### Shopping List:
 - [x] Small Brass Ruler
-- [ ] Black leuchtturm1917 notebook
+- [x] Black plain medium leuchtturm 1917 notebook
 - [x] Pilot G-Tec-C4 Pens
 
 ### Month Goals: May 2017
