@@ -1,7 +1,7 @@
 # I am currently reading these books
 
 ## Fiction
-- ["Vernon God Little"](https://www.amazon.co.uk/gp/product/B002RI9YEG/ref=kinw_myk_ro_title) by DBC Pierre
 
 ## Non-Fiction
-- ["Jupiter's Travels"](https://www.amazon.co.uk/dp/B001T4YV38/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Ted Simon
+- ["Sapiens: A Brief History of Humankind"](https://www.amazon.co.uk/dp/B00K7ED54M/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Yuval Noah Harari
+- ["There is no Map in Hell: The record-breaking run across the Lake District fells"](https://www.amazon.co.uk/dp/B0716DQKMZ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Steve Birkinshaw

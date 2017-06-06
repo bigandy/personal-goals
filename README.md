@@ -8,25 +8,16 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-## 29th May 2017
+## 05th June 2017
 
 ### Week Goals:
 - [ ] Continue [Learn Node](https://learnnode.com) course
-- [x] Back from France by train
-- [ ] Running
-	- [ ] Wednesday Lunchtime
-- [ ] Arthur dropoff/pickup Tuesday
+- [ ] To France on Friday
+- [x] Fix github submodule deployhq issue
 
-### Shopping List:
-- [x] Small Brass Ruler
-- [x] Black plain medium leuchtturm 1917 notebook
-- [x] Pilot G-Tec-C4 Pens
 
-### Month Goals: May 2017
-- [x] Get back into running
-- [x] Carry on with JavaScript learning: [JavaScript 30](https://javascript30.com/), [es6.io](https://es6.io), and [Learn Node](https://learnnode.com) courses
-- [x] Start next version of [my website](https://big-andy.co.uk)
-- [ ] Listen to more music
+### Month Goals: June 2017
+- [ ] Carry on with JavaScript learning: [JavaScript 30](https://javascript30.com/), [es6.io](https://es6.io), and [Learn Node](https://learnnode.com) courses
 
 
 ### Backlog: Side Projects
