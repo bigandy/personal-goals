@@ -14,6 +14,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 - [ ] Continue [Learn Node](https://learnnode.com) course
 - [ ] To France on Friday
 - [x] Fix github submodule deployhq issue
+- [x] Convert d3 demo to use latest version of d3 (v.4.5.0)
 
 
 ### Month Goals: June 2017
