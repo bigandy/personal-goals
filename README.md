@@ -15,6 +15,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 - [ ] Book Weekend away in August
 - [ ] Book Flights to Austria
 - [ ] Book Accom in Austria
+- [ ] Send off Passport application
 
 ### Month Goals: June 2017
 - [ ] Carry on with JavaScript learning: [JavaScript 30](https://javascript30.com/), [es6.io](https://es6.io), and [Learn Node](https://learnnode.com) courses
