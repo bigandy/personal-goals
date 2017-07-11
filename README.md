@@ -8,18 +8,14 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-## 19th June 2017
+## 10th July 2017
 
 ### Week Goals:
 - [ ] Continue [Learn Node](https://learnnode.com) course
-- [ ] Cut out coffee
 - [ ] Book Weekend away in August
-- [ ] Book Flights to Austria
-- [ ] Book Accom in Austria
 - [ ] Send off Passport application
-- [x] sort out summer/winter clothes
 
-### Month Goals: June 2017
+### Month Goals: July 2017
 - [ ] Carry on with JavaScript learning: [JavaScript 30](https://javascript30.com/), [es6.io](https://es6.io), and [Learn Node](https://learnnode.com) courses
 
 ### Backlog: Side Projects
