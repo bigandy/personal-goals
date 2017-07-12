@@ -12,7 +12,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 
 ### Week Goals:
 - [ ] Continue [Learn Node](https://learnnode.com) course
-- [ ] Book Weekend away in August
+- [x] Book Weekend away in August
 - [ ] Send off Passport application
 
 ### Month Goals: July 2017
