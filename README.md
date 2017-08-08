@@ -8,16 +8,19 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-## 10th July 2017
+## 7th August 2017
 
 ### Week Goals:
-- [ ] Continue [Learn Node](https://learnnode.com) course
-- [x] Book Weekend away in August
-- [ ] Send off Passport application
+- [x] Passport application in London
+- [x] Field Notes, New Notebook, Placemats.
+- [x] Continue with JavaScript 30 videos
+- [x] Update big-andy.co.uk to latest
+- [x] Try out Bose QC35 and Sony MDR 1000x
+- [ ] Learn about Oauth and PHP
 
-### Month Goals: July 2017
+### Month Goals: August 2017
 - [ ] Carry on with JavaScript learning: [JavaScript 30](https://javascript30.com/), [es6.io](https://es6.io), and [Learn Node](https://learnnode.com) courses
 
 ### Backlog: Side Projects
 - [ ] Raspberry Pi Sonos + Hue device
-- [ ] Withings API -> WordPress 'Health' CPT using wpapi
+- [ ] Withings/Nokia API -> WordPress 'Health' CPT using wpapi
