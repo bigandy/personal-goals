@@ -19,8 +19,13 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 - [ ] Finish [es6.io](https://es6.io) course
 
 ### Month Goals: August 2017
-- [ ] Carry on with JavaScript learning: [JavaScript 30](https://javascript30.com/), [es6.io](https://es6.io), and [Learn Node](https://learnnode.com) courses
+- [ ] Carry on with JavaScript learning:
+	- [x] [Learn Redux](https://learnredux.com/)
+	- [ ] [es6.io](https://es6.io)
+	- [ ] [JavaScript 30](https://javascript30.com/)
+	- [ ] [Learn Node](https://learnnode.com)
 - [ ] Read More, less Phone (i.e. be less "Hooked")
+- [ ] Drink more water
 
 ### Backlog: Side Projects
 - [ ] Raspberry Pi Sonos + Hue device
