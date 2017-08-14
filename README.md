@@ -11,15 +11,16 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 ## 7th August 2017
 
 ### Week Goals:
-- [x] Passport application in London
-- [x] Field Notes, New Notebook, Placemats.
-- [x] Continue with JavaScript 30 videos
-- [x] Update big-andy.co.uk to latest
-- [x] Try out Bose QC35 and Sony MDR 1000x
+- [ ] Read "Hooked"
+- [x] Start reading "Sprint"
 - [ ] Learn about Oauth and PHP
+- [ ] Drink more water
+- [ ] Less phone (i.e. don't check first thing before breakfast. Keep in bag?)
+- [ ] Finish [es6.io](https://es6.io) course
 
 ### Month Goals: August 2017
 - [ ] Carry on with JavaScript learning: [JavaScript 30](https://javascript30.com/), [es6.io](https://es6.io), and [Learn Node](https://learnnode.com) courses
+- [ ] Read More, less Phone (i.e. be less "Hooked")
 
 ### Backlog: Side Projects
 - [ ] Raspberry Pi Sonos + Hue device
