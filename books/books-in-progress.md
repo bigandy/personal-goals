@@ -1,7 +1,10 @@
 # I am currently reading these books
 
 ## Fiction
+- ["Death and the Penguin"](https://www.amazon.co.uk/gp/product/B0050OLHBW/ref=oh_aui_d_detailpage_o04_?ie=UTF8&psc=1) by Andrey Kurkov
+- ["Swing Time"](https://www.amazon.co.uk/gp/product/0141036605/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1) by Zadie Smith
+
 
 ## Non-Fiction
-- ["Sapiens: A Brief History of Humankind"](https://www.amazon.co.uk/dp/B00K7ED54M/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Yuval Noah Harari
-- ["There is no Map in Hell: The record-breaking run across the Lake District fells"](https://www.amazon.co.uk/dp/B0716DQKMZ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Steve Birkinshaw
+- ["Hooked: How to build Habit-Forming Products"](https://www.amazon.co.uk/dp/B00NW01MKM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Nir Eyal
+- ["Sprint: How To Solve Big Problems and Test New Ideas in Just Five Days"](https://www.amazon.co.uk/Sprint-Solve-Problems-Test-Ideas-ebook/dp/B017S92JUY/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1502711764&sr=1-1&keywords=Sprint)
