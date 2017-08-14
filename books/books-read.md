@@ -29,3 +29,4 @@
 - ["On the Ridge Between Life and Death"](https://www.amazon.co.uk/gp/product/0743255194/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1) by David Roberts
 - ["Jupiter's Travels"](https://www.amazon.co.uk/dp/B001T4YV38/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Ted Simon
 - ["There is no Map in Hell: The record-breaking run across the Lake District fells"](https://www.amazon.co.uk/dp/B0716DQKMZ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Steve Birkinshaw
+- ["The Cyclist Who Went Out in the Cold: Adventures Along the Iron Curtain Trail"](https://www.amazon.co.uk/gp/product/B019CGXPJ0/ref=oh_aui_d_detailpage_o05_?ie=UTF8&psc=1) by Tim Moore
