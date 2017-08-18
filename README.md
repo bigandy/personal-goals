@@ -11,17 +11,19 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 ## 7th August 2017
 
 ### Week Goals:
-- [ ] Read "Hooked"
-- [x] Start reading "Sprint"
+- [x] Continue reading "Hooked"
+- [x] Finish reading "Hooked"
+- [x] Continue reading "Sprint"
+- [x] Start reading "Design Systems"
 - [ ] Learn about Oauth and PHP
-- [ ] Drink more water
-- [ ] Less phone (i.e. don't check first thing before breakfast. Keep in bag?)
-- [ ] Finish [es6.io](https://es6.io) course
+- [x] Drink more water
+- [x] Less phone (i.e. don't check first thing before breakfast. Keep in bag?)
+- [x] Finish [es6.io](https://es6.io) course
 
 ### Month Goals: August 2017
 - [ ] Carry on with JavaScript learning:
 	- [x] [Learn Redux](https://learnredux.com/)
-	- [ ] [es6.io](https://es6.io)
+	- [x] [es6.io](https://es6.io)
 	- [ ] [JavaScript 30](https://javascript30.com/)
 	- [ ] [Learn Node](https://learnnode.com)
 - [ ] Read More, less Phone (i.e. be less "Hooked")

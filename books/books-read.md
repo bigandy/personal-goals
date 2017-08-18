@@ -2,7 +2,7 @@
 
 ## Tech Books
 - [Inclusive Design Patterns](https://www.smashingmagazine.com/books/#inclusive-design-patterns) by Heydon Pickering
-
+- ["Hooked: How to build Habit-Forming Products"](https://www.amazon.co.uk/dp/B00NW01MKM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Nir Eyal
 
 ## Non-tech Books
 
