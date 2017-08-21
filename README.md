@@ -8,17 +8,14 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-## 7th August 2017
+## 21st August 2017
 
 ### Week Goals:
-- [x] Continue reading "Hooked"
-- [x] Finish reading "Hooked"
-- [x] Continue reading "Sprint"
-- [x] Start reading "Design Systems"
-- [ ] Learn about Oauth and PHP
-- [x] Drink more water
-- [x] Less phone (i.e. don't check first thing before breakfast. Keep in bag?)
-- [x] Finish [es6.io](https://es6.io) course
+- [ ] Continue reading "Sprint"
+- [ ] Continue reading "Design Systems"
+- [ ] Coding Challenge
+- [ ] Drink more water
+- [ ] Less phone (i.e. don't check first thing before breakfast. Keep in bag?)
 
 ### Month Goals: August 2017
 - [ ] Carry on with JavaScript learning:
