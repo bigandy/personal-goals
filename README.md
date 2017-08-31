@@ -8,12 +8,15 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-## 21st August 2017
+## 28th August 2017
 
 ### Week Goals:
+- [ ] Prep for Holiday
 - [ ] Continue reading "Sprint"
 - [ ] Continue reading "Design Systems"
-- [ ] Coding Challenge
+- [x] Accept New Job Offer
+- [x] Hand in Notice at T&F
+- [ ] Watch [The How, What and Why of Migrating to ReactJS video](https://www.youtube.com/watch?v=QVna1-9yMuA&feature=youtu.be)
 - [ ] Drink more water
 - [ ] Less phone (i.e. don't check first thing before breakfast. Keep in bag?)
 
