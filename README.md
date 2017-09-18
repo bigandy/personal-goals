@@ -19,6 +19,7 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 - [ ] Watch [The How, What and Why of Migrating to ReactJS video](https://www.youtube.com/watch?v=QVna1-9yMuA&feature=youtu.be)
 - [ ] Drink more water
 - [ ] Less phone (i.e. don't check first thing before breakfast. Keep in bag?)
+- [x] Buy new running watch
 
 ### Month Goals: August 2017
 - [ ] Carry on with JavaScript learning:
