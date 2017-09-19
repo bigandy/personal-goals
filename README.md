@@ -8,23 +8,18 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-## 28th August 2017
+## 18th September 2017
 
 ### Week Goals:
-- [ ] Prep for Holiday
-- [ ] Continue reading "Sprint"
-- [ ] Continue reading "Design Systems"
-- [x] Accept New Job Offer
-- [x] Hand in Notice at T&F
-- [ ] Watch [The How, What and Why of Migrating to ReactJS video](https://www.youtube.com/watch?v=QVna1-9yMuA&feature=youtu.be)
+- [ ] Recover from Holiday
 - [ ] Drink more water
 - [ ] Less phone (i.e. don't check first thing before breakfast. Keep in bag?)
-- [x] Buy new running watch
+- [x] Sign Contract
+- [ ] Research new car options
+- [ ] Watch [The How, What and Why of Migrating to ReactJS video](https://www.youtube.com/watch?v=QVna1-9yMuA&feature=youtu.be)
 
-### Month Goals: August 2017
+### Month Goals: September 2017
 - [ ] Carry on with JavaScript learning:
-	- [x] [Learn Redux](https://learnredux.com/)
-	- [x] [es6.io](https://es6.io)
 	- [ ] [JavaScript 30](https://javascript30.com/)
 	- [ ] [Learn Node](https://learnnode.com)
 - [ ] Read More, less Phone (i.e. be less "Hooked")
