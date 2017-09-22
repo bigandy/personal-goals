@@ -11,10 +11,13 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 ## 18th September 2017
 
 ### Week Goals:
-- [ ] Recover from Holiday
-- [ ] Drink more water
-- [ ] Less phone (i.e. don't check first thing before breakfast. Keep in bag?)
+- [x] Recover from Holiday
+- [x] Recover from being ill
+- [x] Start using vscode instead of Sublime Text 3
+- [x] Drink more water
 - [x] Sign Contract
+- [x] Look at tool for new job
+- [ ] Less phone (i.e. don't check first thing before breakfast. Keep in bag?)
 - [ ] Research new car options
 - [ ] Watch [The How, What and Why of Migrating to ReactJS video](https://www.youtube.com/watch?v=QVna1-9yMuA&feature=youtu.be)
 
