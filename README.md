@@ -8,17 +8,16 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-## 18th September 2017
+## 25th September 2017
 
 ### Week Goals:
-- [x] Recover from Holiday
-- [x] Recover from being ill
-- [x] Start using vscode instead of Sublime Text 3
-- [x] Drink more water
-- [x] Sign Contract
-- [x] Look at tool for new job
+- [ ] Final Week @ T&F!
+- [ ] Take everything back from T&F
+- [ ] Drop/pickup Arthur Tue & Wed
+- [ ] Continue using vscode instead of Sublime Text 3
+- [ ] Drink more water
 - [ ] Less phone (i.e. don't check first thing before breakfast. Keep in bag?)
-- [ ] Research new car options
+- [ ] Research/view used cars
 - [ ] Watch [The How, What and Why of Migrating to ReactJS video](https://www.youtube.com/watch?v=QVna1-9yMuA&feature=youtu.be)
 
 ### Month Goals: September 2017
