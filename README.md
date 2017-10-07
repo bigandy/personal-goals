@@ -8,24 +8,28 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-## 25th September 2017
+## 9th October 2017
 
 ### Week Goals:
-- [ ] Final Week @ T&F!
-- [ ] Take everything back from T&F
-- [ ] Drop/pickup Arthur Tue & Wed
-- [ ] Continue using vscode instead of Sublime Text 3
+- [ ] Read more books
+- [ ] Run 2x a week
+- [ ] Setup Turbo Trainer
+- [ ] Setup Raspberry Pi again
+- [ ] Visit M&D on Saturday
+- [ ] Trello shortcuts
 - [ ] Drink more water
 - [ ] Less phone (i.e. don't check first thing before breakfast. Keep in bag?)
-- [ ] Research/view used cars
-- [ ] Watch [The How, What and Why of Migrating to ReactJS video](https://www.youtube.com/watch?v=QVna1-9yMuA&feature=youtu.be)
+- [ ] Investigate local badminton clubs
 
-### Month Goals: September 2017
+### Month Goals: October 2017
+- [ ] Refresh my own site + write more often!
+- [ ] New Job @ Venture Harbour!
 - [ ] Carry on with JavaScript learning:
 	- [ ] [JavaScript 30](https://javascript30.com/)
 	- [ ] [Learn Node](https://learnnode.com)
 - [ ] Read More, less Phone (i.e. be less "Hooked")
 - [ ] Drink more water
+- [ ] Fitness (run 2x a week)
 
 ### Backlog: Side Projects
 - [ ] Raspberry Pi Sonos + Hue device
