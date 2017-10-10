@@ -11,10 +11,13 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 ## 9th October 2017
 
 ### Week Goals:
-- [ ] Read more books
+- [x] Read more books
 - [ ] Run 2x a week
+        - [x] Monday 
+	- [ ] Thursday
 - [ ] Setup Turbo Trainer
-- [ ] Setup Raspberry Pi again
+- [x] Setup Raspberry Pi again
+- [ ] How to use Sublime Text to save to Raspberry Pi + use nodemon?
 - [ ] Visit M&D on Saturday
 - [ ] Trello shortcuts
 - [ ] Drink more water
