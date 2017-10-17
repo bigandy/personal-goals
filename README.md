@@ -8,18 +8,20 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-## 9th October 2017
+## 16th October 2017
 
 ### Week Goals:
 - [ ] Read more books
+- [x] Finish reading ["What If"](https://www.amazon.co.uk/What-If-Scientific-Hypothetical-Questions/dp/1848549563)
+- [ ] No TV all week
+- [x] Listen to [Richard Branson on Tim Ferris show](https://tim.blog/2017/10/09/richard-branson/)
+- [ ] Remote Wednesday
+- [x] Dropoff Monday
+- [x] Pickup Arthur Tue
+- [x] Timelapse Raspberry Pi
 - [ ] Run 2x a week
-- [ ] Setup Turbo Trainer
-- [ ] Setup Raspberry Pi again
-- [ ] Visit M&D on Saturday
-- [ ] Trello shortcuts
 - [ ] Drink more water
 - [ ] Less phone (i.e. don't check first thing before breakfast. Keep in bag?)
-- [ ] Investigate local badminton clubs
 
 ### Month Goals: October 2017
 - [ ] Refresh my own site + write more often!
