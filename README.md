@@ -12,24 +12,25 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 
 ### Week Goals:
 - [ ] Read more books
+- [x] Read [Improving Focus Article](https://qotoqot.com/blog/improving-focus/)
 - [x] Finish reading ["What If"](https://www.amazon.co.uk/What-If-Scientific-Hypothetical-Questions/dp/1848549563)
 - [ ] No TV all week
 - [x] Listen to [Richard Branson on Tim Ferris show](https://tim.blog/2017/10/09/richard-branson/)
-- [ ] Remote Wednesday
+- [x] Remote Wednesday
 - [x] Dropoff Monday
 - [x] Pickup Arthur Tue
 - [x] Timelapse Raspberry Pi
 - [ ] Run 2x a week
 - [ ] Drink more water
-- [ ] Less phone (i.e. don't check first thing before breakfast. Keep in bag?)
+- [x] Less phone (i.e. don't check first thing before breakfast. Keep in bag?)
 
 ### Month Goals: October 2017
 - [ ] Refresh my own site + write more often!
-- [ ] New Job @ Venture Harbour!
+- [x] New Job @ Venture Harbour!
 - [ ] Carry on with JavaScript learning:
 	- [ ] [JavaScript 30](https://javascript30.com/)
 	- [ ] [Learn Node](https://learnnode.com)
-- [ ] Read More, less Phone (i.e. be less "Hooked")
+- [x] Read More, less Phone (i.e. be less "Hooked")
 - [ ] Drink more water
 - [ ] Fitness (run 2x a week)
 
