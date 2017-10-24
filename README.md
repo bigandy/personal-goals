@@ -8,20 +8,16 @@ Personal goals made open source. Inspired and based on [Una's Personal Goals](ht
 2. Always be Learning, Always be Coding
 3. Read more books: [currently reading](/books/books-in-progress.md) / [read since October 2016](/books/books-read.md)
 
-## 16th October 2017
+## 23rd October 2017
 
 ### Week Goals:
+- [ ] Birthday celebration
 - [ ] Read more books
-- [x] Read [Improving Focus Article](https://qotoqot.com/blog/improving-focus/)
-- [x] Finish reading ["What If"](https://www.amazon.co.uk/What-If-Scientific-Hypothetical-Questions/dp/1848549563)
-- [ ] No TV all week
-- [x] Listen to [Richard Branson on Tim Ferris show](https://tim.blog/2017/10/09/richard-branson/)
-- [x] Remote Wednesday
-- [x] Dropoff Monday
-- [x] Pickup Arthur Tue
-- [x] Timelapse Raspberry Pi
+- [x] Listen to Tim Ferris show
+- [ ] Remote Wednesday
 - [ ] Run 2x a week
 - [ ] Drink more water
+- [x] Get Themometer/humidity sensor working and do min/max
 - [x] Less phone (i.e. don't check first thing before breakfast. Keep in bag?)
 
 ### Month Goals: October 2017

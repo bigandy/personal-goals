@@ -35,3 +35,5 @@
 - ["The Cyclist Who Went Out in the Cold: Adventures Along the Iron Curtain Trail"](https://www.amazon.co.uk/gp/product/B019CGXPJ0/ref=oh_aui_d_detailpage_o05_?ie=UTF8&psc=1) by Tim Moore
 - ["Hooked: How to Build Habit-Forming Products"](https://www.amazon.co.uk/gp/product/0241184835/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1) by Eyal, Nir
 - ["Creativity Inc"](https://www.amazon.co.uk/dp/B00GUOEMA4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Ed Catmull
+["On Being Nice (School of Life)"](https://www.amazon.co.uk/gp/product/0995573646/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) by The School of Life
+

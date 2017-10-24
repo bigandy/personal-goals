@@ -5,7 +5,7 @@
 
 ## Non-Fiction
 ["Growth Hacker Marketing"](https://www.amazon.co.uk/Growth-Hacker-Marketing-Primer-Advertising-ebook/dp/B00EWPMUKM/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1507388586&sr=1-1&keywords=growth+hacker+marketing) by Ryan Holiday
-["On Being Nice (School of Life)"](https://www.amazon.co.uk/gp/product/0995573646/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) by The School of Life
+["South: The Endurance Expedition"](https://www.amazon.co.uk/South-Endurance-Expedition-Penguin-Classics/dp/0241251095/ref=sr_1_1?s=books&ie=UTF8&qid=1508859333&sr=1-1&keywords=shackleton+south) by Ernest Shackleton
 
 
 ## Parked for the moment
